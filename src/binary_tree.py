@@ -1,5 +1,5 @@
 from queue import Queue
-from doubly_linked_list import DoublyLinkedList, Node as DLLNode
+from src.doubly_linked_list import DoublyLinkedList, Node as DLLNode
 
 
 class Node:

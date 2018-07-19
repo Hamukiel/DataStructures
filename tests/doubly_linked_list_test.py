@@ -1,4 +1,4 @@
-from doubly_linked_list import DoublyLinkedList, Node
+from src.doubly_linked_list import DoublyLinkedList, Node
 import unittest
 
 

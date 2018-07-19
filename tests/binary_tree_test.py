@@ -1,6 +1,6 @@
-from binary_tree import Node
-from doubly_linked_list import DoublyLinkedList, Node as DLLNode
-from linked_list import LinkedList, Node as LLNode
+from src.binary_tree import Node
+from src.doubly_linked_list import DoublyLinkedList
+from src.linked_list import LinkedList
 import unittest
 
 

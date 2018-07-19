@@ -1,4 +1,4 @@
-from linked_list import LinkedList, Node
+from src.linked_list import LinkedList, Node
 import unittest
 
 

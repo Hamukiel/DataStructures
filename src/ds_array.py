@@ -2,7 +2,7 @@ def mdc(a, b):
     if b == 0:
         return a
     else:
-        return mdc(a, a%b)
+        return mdc(b, a%b)
 
 
 def printArray(arr, size):
